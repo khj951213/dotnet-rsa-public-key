@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAPublicKeyEncrypt", "RSAPublicKeyEncrypt\RSAPublicKeyEncrypt.csproj", "{9C23666C-8402-4C07-8937-C7BC0C254BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JK_RSA_PUB", "JK_RSA_PUB\JK_RSA_PUB.csproj", "{6A0D70AF-8837-4827-8FDA-BDD027D83528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C23666C-8402-4C07-8937-C7BC0C254BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C23666C-8402-4C07-8937-C7BC0C254BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C23666C-8402-4C07-8937-C7BC0C254BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C23666C-8402-4C07-8937-C7BC0C254BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0D70AF-8837-4827-8FDA-BDD027D83528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0D70AF-8837-4827-8FDA-BDD027D83528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0D70AF-8837-4827-8FDA-BDD027D83528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0D70AF-8837-4827-8FDA-BDD027D83528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {209323A0-73A2-401A-8203-3BF6DC482B91}
+	EndGlobalSection
+EndGlobal
